@@ -10,8 +10,8 @@ Configuration
 
 In addition to the VSIX installation, there are some configuration files...
 
-[Shortcuts_Code_QuickPair.xml](CR_QuickPair/DeploymentFiles/Shortcuts_Code_QuickPair.xml)
-[Shortcuts_Navigation.xml](CR_QuickPair/DeploymentFiles/Shortcuts_Navigation.xml)
+ * [Shortcuts_Code_QuickPair.xml](CR_QuickPair/DeploymentFiles/Shortcuts_Code_QuickPair.xml)
+ * [Shortcuts_Navigation.xml](CR_QuickPair/DeploymentFiles/Shortcuts_Navigation.xml)
 
 ...which should be deployed to the correct location.
 
