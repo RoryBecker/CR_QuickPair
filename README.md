@@ -8,9 +8,15 @@ This plugin was created on during the first [CodeRush Feature Workshop](http://c
 Configuration
 ======
 
-In addition to the VSIX installation, there are some configuration files, which should be deployed to the correct location.
+In addition to the VSIX installation, there are some configuration files...
 
-[Locate your settings folder](http://community.devexpress.com/blogs/rorybecker/archive/2011/04/11/coderush-tip-where-are-my-coderush-settings-stored.aspx) and extract the xml files in the plugin zip file to your Settings.XML\IDE folder.
+[Shortcuts_Code_QuickPair.xml](CR_QuickPair/DeploymentFiles/Shortcuts_Code_QuickPair.xml)
+[Shortcuts_Navigation.xml](CR_QuickPair/DeploymentFiles/Shortcuts_Navigation.xml)
+
+...which should be deployed to the correct location.
+
+
+[Locate your settings folder](http://community.devexpress.com/blogs/rorybecker/archive/2011/04/11/coderush-tip-where-are-my-coderush-settings-stored.aspx) and save these xml files into your **Settings.XML\IDE** folder.
 
 Usage 
 ======
